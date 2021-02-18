@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Dairon Ferrer",
+    "occupation":"Full Stack Developer Student",
+    "description":"A student with a passion for technology and design. I am currently enrolled in the UNC Chapel-Hill's coding bootcamp, with ambitions to succeed in the development world.",
+    "image":"profilepic.JPG",
+    "bio":"A Junior Full Stack Developer with a background in sales, medical interpreting and forklift operation. I have enjoyed a variety of work experience, but I am now prepared to make my development passion into my life-long career.",
+    "contactmessage":"Here is my information if you wish to contact me.",
+    "email": "daironferrer7@gmail.com",
+    "phone": "(336) 624-0591",
+    "address":{
+      "street":"3866 Forest Valley Dr.",
+      "city":"Winston-Salem",
+      "state":"North Carolina",
+      "zip": "27105"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/daironferrer.902",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/dairon-ferrer-6984971b5",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/daironferrer",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/daironferrer",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Unkown",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"..",
+        "user":".."
+      }
+    ]
+  }
+}
